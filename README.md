@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vedantyerne1-art/leetcode2/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantyerne1-art/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vedantyerne1-art/leetcode2/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedantyerne1-art/leetcode2/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
