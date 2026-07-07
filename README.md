@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vedantyerne1-art/leetcode2/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantyerne1-art/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vedantyerne1-art/leetcode2/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vedantyerne1-art/leetcode2/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedantyerne1-art/leetcode2/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/vedantyerne1-art/leetcode2/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
