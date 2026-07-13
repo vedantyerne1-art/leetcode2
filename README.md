@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vedantyerne1-art/leetcode2/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vedantyerne1-art/leetcode2/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
