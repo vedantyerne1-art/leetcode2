@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vedantyerne1-art/leetcode2/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/vedantyerne1-art/leetcode2/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vedantyerne1-art/leetcode2/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/vedantyerne1-art/leetcode2/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vedantyerne1-art/leetcode2/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vedantyerne1-art/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
