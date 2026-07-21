@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vedantyerne1-art/leetcode2/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
+| [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vedantyerne1-art/leetcode2/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/vedantyerne1-art/leetcode2/tree/master/1260-shift-2d-grid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantyerne1-art/leetcode2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedantyerne1-art/leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedantyerne1-art/leetcode2/tree/master/0141-linked-list-cycle) |
+| [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
 ## Tree
 |  |
 | ------- |
