@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vedantyerne1-art/leetcode2/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedantyerne1-art/leetcode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedantyerne1-art/leetcode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vedantyerne1-art/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/vedantyerne1-art/leetcode2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedantyerne1-art/leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vedantyerne1-art/leetcode2/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vedantyerne1-art/leetcode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/vedantyerne1-art/leetcode2/tree/master/0872-leaf-similar-trees) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
