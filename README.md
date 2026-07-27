@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/vedantyerne1-art/leetcode2/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vedantyerne1-art/leetcode2/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedantyerne1-art/leetcode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vedantyerne1-art/leetcode2/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/vedantyerne1-art/leetcode2/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vedantyerne1-art/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
