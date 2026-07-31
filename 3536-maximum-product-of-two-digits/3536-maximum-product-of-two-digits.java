@@ -1,14 +1,21 @@
 class Solution {
     public int maxProduct(int n) {
-        int max = -1;
-        String str = n + "";
-        for(int i = 0 ; i < str.length() ; i++){
-            for(int j = i + 1 ; j < str.length() ; j++){
-                int d1 = str.charAt(i) - '0';
-                int d2 = str.charAt(j) - '0';
-                max = Math.max(max , d1 * d2);
+        int max = 0;
+        int second = 0;
+
+        while (n > 0) {
+            int digit = n % 10;
+
+            if (digit >= max) {
+                second = max;
+                max = digit;
+            } else if (digit > second) {
+                second = digit;
             }
+
+            n /= 10;
         }
-        return max;
+
+        return max * second;
     }
 }
