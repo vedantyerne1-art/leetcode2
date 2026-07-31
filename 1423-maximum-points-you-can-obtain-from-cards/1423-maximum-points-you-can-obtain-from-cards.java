@@ -4,15 +4,16 @@ class Solution {
         for(int i=0;i<k;i++){
             leftsum+=cardPoints[i];
         }
-        int maxsum=leftsum;
 
+        int maxsum=leftsum;
         int rightsum=0;
         for(int i=k-1,j=cardPoints.length-1;i>=0;i--,j--){
-            leftsum= leftsum-cardPoints[i];
-            rightsum= rightsum+cardPoints[j];
+            leftsum-=cardPoints[i];
+            rightsum+=cardPoints[j];
 
-            maxsum=Math.max(maxsum,leftsum+rightsum);
+            maxsum=Math.max(maxsum,rightsum+leftsum);
         }
         return maxsum;
+
     }
 }
