@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vedantyerne1-art/leetcode2/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
 | [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
+| [0877-stone-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/vedantyerne1-art/leetcode2/tree/master/1051-height-checker) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vedantyerne1-art/leetcode2/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantyerne1-art/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/vedantyerne1-art/leetcode2/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedantyerne1-art/leetcode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantyerne1-art/leetcode2/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/vedantyerne1-art/leetcode2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantyerne1-art/leetcode2/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vedantyerne1-art/leetcode2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedantyerne1-art/leetcode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -300,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vedantyerne1-art/leetcode2/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
