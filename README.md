@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantyerne1-art/leetcode2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/vedantyerne1-art/leetcode2/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/vedantyerne1-art/leetcode2/tree/master/0872-leaf-similar-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantyerne1-art/leetcode2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/vedantyerne1-art/leetcode2/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantyerne1-art/leetcode2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/vedantyerne1-art/leetcode2/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
