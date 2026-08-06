@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vedantyerne1-art/leetcode2/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vedantyerne1-art/leetcode2/tree/master/0141-linked-list-cycle) |
 | [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
 ## Tree
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vedantyerne1-art/leetcode2/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/vedantyerne1-art/leetcode2/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
