@@ -359,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vedantyerne1-art/leetcode2/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/vedantyerne1-art/leetcode2/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
