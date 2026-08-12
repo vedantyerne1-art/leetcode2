@@ -381,5 +381,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/vedantyerne1-art/leetcode2/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/vedantyerne1-art/leetcode2/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/vedantyerne1-art/leetcode2/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vedantyerne1-art/leetcode2/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
