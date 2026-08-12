@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vedantyerne1-art/leetcode2/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedantyerne1-art/leetcode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vedantyerne1-art/leetcode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vedantyerne1-art/leetcode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedantyerne1-art/leetcode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vedantyerne1-art/leetcode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vedantyerne1-art/leetcode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vedantyerne1-art/leetcode2/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vedantyerne1-art/leetcode2/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vedantyerne1-art/leetcode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Combinatorics
 |  |
 | ------- |
