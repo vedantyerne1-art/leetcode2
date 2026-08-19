@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/vedantyerne1-art/leetcode2/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/vedantyerne1-art/leetcode2/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/vedantyerne1-art/leetcode2/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/vedantyerne1-art/leetcode2/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vedantyerne1-art/leetcode2/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/vedantyerne1-art/leetcode2/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/vedantyerne1-art/leetcode2/tree/master/1683-invalid-tweets) |
