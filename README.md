@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/vedantyerne1-art/leetcode2/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/vedantyerne1-art/leetcode2/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedantyerne1-art/leetcode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vedantyerne1-art/leetcode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vedantyerne1-art/leetcode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vedantyerne1-art/leetcode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vedantyerne1-art/leetcode2/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vedantyerne1-art/leetcode2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedantyerne1-art/leetcode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/vedantyerne1-art/leetcode2/tree/master/3620-network-recovery-pathways) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vedantyerne1-art/leetcode2/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vedantyerne1-art/leetcode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vedantyerne1-art/leetcode2/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vedantyerne1-art/leetcode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vedantyerne1-art/leetcode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vedantyerne1-art/leetcode2/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vedantyerne1-art/leetcode2/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -394,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vedantyerne1-art/leetcode2/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
