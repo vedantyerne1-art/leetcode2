@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedantyerne1-art/leetcode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vedantyerne1-art/leetcode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vedantyerne1-art/leetcode2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vedantyerne1-art/leetcode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/vedantyerne1-art/leetcode2/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vedantyerne1-art/leetcode2/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vedantyerne1-art/leetcode2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vedantyerne1-art/leetcode2/tree/master/3348-smallest-divisible-digit-product-ii) |
