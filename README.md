@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vedantyerne1-art/leetcode2/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vedantyerne1-art/leetcode2/tree/master/0141-linked-list-cycle) |
 | [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vedantyerne1-art/leetcode2/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
 | ------- |
