@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vedantyerne1-art/leetcode2/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/vedantyerne1-art/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vedantyerne1-art/leetcode2/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/vedantyerne1-art/leetcode2/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantyerne1-art/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/vedantyerne1-art/leetcode2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/0877-stone-game) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantyerne1-art/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/vedantyerne1-art/leetcode2/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/vedantyerne1-art/leetcode2/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/vedantyerne1-art/leetcode2/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vedantyerne1-art/leetcode2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vedantyerne1-art/leetcode2/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vedantyerne1-art/leetcode2/tree/master/0344-reverse-string) |
