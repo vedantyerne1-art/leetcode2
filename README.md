@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vedantyerne1-art/leetcode2/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vedantyerne1-art/leetcode2/tree/master/0724-find-pivot-index) |
 | [0817-linked-list-components](https://github.com/vedantyerne1-art/leetcode2/tree/master/0817-linked-list-components) |
+| [0835-image-overlap](https://github.com/vedantyerne1-art/leetcode2/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vedantyerne1-art/leetcode2/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantyerne1-art/leetcode2/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vedantyerne1-art/leetcode2/tree/master/1004-max-consecutive-ones-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vedantyerne1-art/leetcode2/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/vedantyerne1-art/leetcode2/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedantyerne1-art/leetcode2/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/vedantyerne1-art/leetcode2/tree/master/1672-richest-customer-wealth) |
